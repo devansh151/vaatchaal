@@ -1,0 +1,27 @@
+{
+  "container": {
+    "flex": 1
+  },
+  "infoContainer": {
+    "padding": 16,
+    "color": "#bc143c",
+    "backgroundColor": "#F6F6F6",
+    "flex": 2
+  },
+  "infoHeading": {
+    "fontSize": 18,
+    "color": "#222222",
+    "marginTop": 16,
+    "fontWeight": "bold"
+  },
+  "infoMetaKey": {
+    "fontSize": 14,
+    "color": "#bc143c",
+    "fontWeight": "bold"
+  },
+  "infoMetaValue": {
+    "fontSize": 14,
+    "color": "#222222",
+    "fontWeight": "bold"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "content": {
+    "flex":1,
+    "padding": 50
+  },
+  "errorImage": {
+    "height": 300,
+    "flex":1,
+    "resizeMode": "cover",
+    "justifyContent":"center",
+    "alignItems":"center"
+  },
+  "errorText": {
+    "color": "#111111",
+    "fontSize": 24,
+    "fontWeight":"bold",
+    "marginBottom":50
+  }
+}

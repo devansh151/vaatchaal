@@ -1,0 +1,38 @@
+{
+  "container": {
+    "padding": 16,
+    "backgroundColor": "#F6F6F6"
+  },
+  "content": {
+    "flex": 1
+  },
+  "trackContent": {
+    "flexGrow": 1,
+    "justifyContent":"flex-start"
+  },
+  "categoryContainer": {
+    "marginTop": 32
+  },
+  "image": {
+    "flex": 1,
+    "resizeMode": "cover"
+  },
+  "icons": {
+    "color": "#bc143c",
+    "fontSize": 20
+  },
+  "scrollBarInfo": {
+    "display": "flex",
+    "flexDirection": "row",
+    "justifyContent":"space-between",
+    "alignItems":"center",
+    "paddingTop":12,
+    "paddingBottom":12
+  },
+  "scrollBarInfoText": {
+    "color":"#bc143c",
+    "fontWeight": "700",
+    "fontSize": 14,
+    "letterSpacing": 1.1
+  }
+}

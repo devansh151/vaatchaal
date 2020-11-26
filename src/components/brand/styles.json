@@ -1,0 +1,23 @@
+{
+  "brandBar": {
+    "width": "50%",
+    "alignSelf": "center",
+    "borderRadius": 48,
+    "backgroundColor": "#ffffff",
+    "elevation": 2,
+    "height": 42
+  },
+  "brandImg": {
+    "width": 48,
+    "height": 48,
+    "marginRight": 20,
+    "marginLeft": -4,
+    "marginTop": 0.5
+  },
+  "brandText": {
+    "fontSize": 20,
+    "fontWeight": "700",
+    "color": "#bc143c",
+    "fontFamily": "Roboto"
+  }
+}

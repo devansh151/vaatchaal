@@ -1,0 +1,39 @@
+{
+  "albumContainer": {
+    "flex": 1,
+    "backgroundColor":"#F6F6F6"
+  },
+  "albumCoverImage": {
+    "height":250,
+    "justifyContent":"center",
+    "alignItems":"center"
+  },
+  "albumImage": {
+    "resizeMode": "cover"
+  },
+  "albumHeader": {
+    "height": 250
+  },
+  "songListContainer": {
+    "flexWrap": "wrap",
+    "flexDirection":"row",
+    "justifyContent":"space-around",
+    "alignItems":"flex-start",
+    "padding":16
+  },
+  "albumInfo": {
+    "flexDirection":"row",
+    "color":"#ffffff",
+    "textAlign":"center"
+  },
+  "albumInfoHeaderText": {
+    "color":"#ffffff",
+    "fontSize":20,
+    "letterSpacing":1,
+    "marginBottom":10
+  },
+  "albumInfoText": {
+    "color":"#ffffff",
+    "fontSize":12
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "categoryContainer": {
+    "flex": 1,
+    "backgroundColor":"#F6F6F6"
+  },
+  "categoryCoverImage": {
+    "height":250,
+    "justifyContent":"center",
+    "alignItems":"center"
+  },
+  "categoryImage": {
+    "resizeMode": "cover"
+  },
+  "categoryHeader": {
+    "height": 250
+  },
+  "songListContainer": {
+    "flexWrap": "wrap",
+    "flexDirection":"row",
+    "justifyContent":"space-around",
+    "alignItems":"flex-start",
+    "padding":16
+  },
+  "categoryInfo": {
+    "flexDirection":"row",
+    "color":"#ffffff",
+    "textAlign":"center"
+  },
+  "categoryInfoHeaderText": {
+    "color":"#ffffff",
+    "fontSize":20,
+    "letterSpacing":1,
+    "marginBottom":10
+  },
+  "categoryInfoText": {
+    "color":"#ffffff",
+    "fontSize":12
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "playIcon": {
+    "color":"#ffffff",
+    "fontSize":24
+  },
+  "albumCard": {
+    "height": 150,
+    "width": 150,
+    "backgroundColor":"transparent",
+    "elevation":10,
+    "marginRight":20,
+    "marginBottom":20
+  },
+  "image": {
+    "height": 150,
+    "width": 150,
+    "padding":10,
+    "borderRadius":5,
+    "resizeMode": "stretch",
+    "justifyContent":"center",
+    "alignItems":"center"
+  },
+  "albumImageStyle": {
+    "height": 150,
+    "width":150,
+    "borderRadius": 5,
+    "resizeMode": "stretch",
+    "flex": 1,
+    "justifyContent":"center",
+    "alignItems":"center"
+  },
+  "albumName": {
+    "color": "#ffffff",
+    "fontWeight":"bold",
+    "letterSpacing":1,
+    "marginTop":10,
+    "textAlign":"center"
+  }
+}

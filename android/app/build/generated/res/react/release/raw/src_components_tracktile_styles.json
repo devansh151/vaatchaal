@@ -1,0 +1,36 @@
+{
+  "playIcon": {
+    "color":"#ffffff",
+    "fontSize":24
+  },
+  "trackCard": {
+    "height": 150,
+    "width": 150,
+    "backgroundColor":"transparent",
+    "elevation":10,
+    "marginRight":20,
+    "marginBottom":20
+  },
+  "image": {
+    "height": 150,
+    "width": 150,
+    "padding":10,
+    "flex":1,
+    "justifyContent":"space-between",
+    "alignItems": "center"
+  },
+  "trackImageStyle": {
+    "borderRadius": 5
+  },
+  "trackName": {
+    "color": "#ffffff",
+    "fontWeight":"bold",
+    "letterSpacing":1
+  },
+  "trackArtist": {
+    "color": "#f5f5f5",
+    "letterSpacing":1,
+    "fontSize": 12,
+    "textAlign":"center"
+  }
+}
